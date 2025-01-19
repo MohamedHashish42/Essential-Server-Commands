@@ -1,3 +1,7 @@
+<h2 dir="rtl" align="center">
+بسم الله الرحمن الرحيم
+</h2>
+
 # Essential Server Commands
 
 This is a list of **Essential Server Commands** for a Backend developer to troubleshoot, debug, and interact with servers effectively. These commands are commonly used in **Windows environments**, though some are universal across operating systems.
